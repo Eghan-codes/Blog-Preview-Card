@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Eghan-codes/Blog-Preview-Card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://eghan-codes.github.io/Blog-Preview-Card/)
 
 ## My process
 
@@ -36,8 +36,6 @@ Users should be able to:
 
 
 ### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
 I am looking forward to learn more about media queries and other css basic techniques to become more efficient in writing less code. 
 
